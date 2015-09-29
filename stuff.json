@@ -1,0 +1,42 @@
+[
+    {
+        "text_content":"Alltid 30 dagars\nöppet köp!",
+        "text_align":"center",
+        "text_color":"black",
+        "font":"fonts/mmheadlinepro-regular.ttf",
+        "font_size":"36",
+        "line_height":"-8",
+        "width":"",
+        "height":""
+    },
+    {
+        "text_content":"Passa på att fynda\ntill den sista september!",
+        "text_align":"left",
+        "text_color":"blue",
+        "font":"fonts/mmheadlinepro-regular.ttf",
+        "font_size":"36",
+        "line_height":"-8",
+        "width":"400",
+        "height":""
+    },
+    {
+        "text_content":"ALLTID DEN\nSENASTE TEKNIKEN",
+        "text_align":"right",
+        "text_color":"green",
+        "font":"fonts/mmheadlinepro-regular.ttf",
+        "font_size":"72",
+        "line_height":"-24",
+        "width":"",
+        "height":"100"
+    },
+    {
+        "text_content":"Ständigt lågt pris!",
+        "text_align":"center",
+        "text_color":"red",
+        "font":"fonts/mmheadlinepro-regular.ttf",
+        "font_size":"72",
+        "line_height":"0",
+        "width":"600",
+        "height":""
+    }
+]
